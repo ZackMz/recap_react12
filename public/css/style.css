@@ -1,0 +1,28 @@
+.bbox {
+  height: 200px;
+  background-color: grey;
+}
+
+.bigblock {
+  background-color: grey;
+  display: flex;
+}
+.bigblock .bigblue {
+  height: 100px;
+  width: 200px;
+  background-color: blue;
+  margin: 10px;
+}
+.bigblock .bigblue .littlered {
+  height: 40px;
+  width: 40px;
+  background-color: red;
+  margin: auto;
+}
+
+.button {
+  background-color: green;
+  border: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
